@@ -62,9 +62,8 @@ The above parameter gave a maximum accuracy of 0.8562 .
 
 ### Convergence graph  : 
 
-<img width="581" alt="Screenshot 2023-04-20 at 3 11 11 AM" src="https://user-images.githubusercontent.com/64249407/233207045-30830ff4-e22e-4ed7-935e-8b365f07eb28.png">
 
-
+![Screenshot 2023-04-20 044123](https://user-images.githubusercontent.com/75215253/233219122-3eb31a55-38db-4219-b442-b09e405caf27.png)
 
 ## Submission by :
 **Name** : Simranpreet Singh
