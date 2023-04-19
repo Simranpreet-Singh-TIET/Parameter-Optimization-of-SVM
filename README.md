@@ -54,11 +54,11 @@ Categorical,Integer
 ## Results
 
 The best parameters of SVC for the given dataset are:
-- Kernel : rbf
-- C : 6.596029  
-- Gamma : 0.059894  
+- Kernel : linear
+- C : 3.375117  
+- Gamma : 4.750077  
 
-The above parameter gave a maximum accuracy of 0.8562 .
+The above parameter gave a maximum accuracy of 0.8590 .
 
 ### Convergence graph  : 
 
